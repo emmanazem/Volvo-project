@@ -1,0 +1,18 @@
+.navbarWrap {
+display: flex;
+align-items: center;
+width: 100%;
+margin-bottom: 3em;
+}
+
+.navbarTitle {
+    margin-left: 1.5em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3vw;
+}
+
+.userIconNavbar {
+    width: 6em;
+    height: auto;
+}
+

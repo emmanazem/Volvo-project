@@ -1,0 +1,25 @@
+.errorMassage {
+    color: rgb(224, 3, 3);
+    font-weight: bold;
+  }
+  
+  .fetchButton {
+    background-image: linear-gradient(90deg, rgba(29, 207, 68, 0.728), rgba(37, 135, 215, 0.812), rgba(199, 37, 37, 0.827) );
+    border-radius: 10px;
+    border: 1px;
+    padding: 0.8em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    margin: 20px 10px;
+  }
+  
+  .userInfoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+   {
+    font:
+  }
